@@ -59,4 +59,4 @@ markers:
         init_pos:  [0.51, -0.0017, 0.08]
 
 optitrack_config:
-        multicast_address: 224.0.0.1
+        multicast_address: 239.255.42.99
